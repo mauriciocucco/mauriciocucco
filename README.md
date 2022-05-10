@@ -10,7 +10,8 @@
 Since a discovered Web Programming, I've been amazed by the paths that I can follow to make great things. Actually, this is my dream job and I work everyday to make my code better and solve every problem. Let me tell you a couple of things about me:
 
 - I work for [Esto Es](https://www.estoes.me/) :rocket:.
-- Javascript is my first love :heart:.
+- Javascript is my first love :yellow_heart:.
+- Angular is the second one :heart:.
 - I want to be a Fullstack Developer (if such thing exists) :muscle:.
 - I'm a big fan of dogs :dog:, cats :cat:, football :soccer: and series :tv:.
 - I also love playing videogames :video_game: and all kind of things related to the Universe (documentaries, articles, etc) :star:.
