@@ -1,9 +1,9 @@
 # Hi, I'm Mauricio Cucco
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocucco/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mauriciocucco/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-2734f0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mauriciocucco/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricucco/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mauricucco/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-2734f0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mauricucco/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=865DF7&lines=Nice+to+meet+you!;I'm+an+Argentinian+Web+Programmer)](https://git.io/typing-svg)
 
