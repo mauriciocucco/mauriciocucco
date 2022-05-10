@@ -1,8 +1,8 @@
 # Hi, I'm Mauricio Cucco
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
-[![Linkedin Badge](https://badge.linkedin.com/badge/linkedin-badge.svg)](https://www.linkedin.com/in/mauriciocucco/)]]
-[![Instagram Badge](https://badge.instagram.com/badge/instagram-badge.svg)](https://www.instagram.com/mauriciocucco/)
+[![Linkedin Badge](https://img.shields/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&locoColor=white)](https://www.linkedin.com/in/mauriciocucco/)
+[![Instagram Badge](https://img.shields/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&locoColor=white)](https://www.instagram.com/mauriciocucco/)
 [![Facebook Badge](https://badge.facebook.com/badge/facebook-badge.svg)](https://www.facebook.com/mauriciocucco/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=C846F7&lines=I'm+a+Web+Programmer.)](https://git.io/typing-svg)
