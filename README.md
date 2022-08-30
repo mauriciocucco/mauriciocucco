@@ -10,7 +10,7 @@
 Since I discovered Web Programming, I've been amazed by the paths that I can follow to make great things. Actually, this is my dream job and I work everyday to make my code better and solve every problem. Let me tell you a couple of things about me:
 
 - Javascript is my first love :yellow_heart:.
-- I love Angular and Nest JS too :heart:.
+- I love Angular and Nest JS :heart:.
 - I want to be a Fullstack Developer (if such thing exists) :muscle:.
 - I'm a big fan of dogs :dog:, cats :cat:, football :soccer: and series :tv:.
 - I also love playing videogames :video_game: and all kind of things related to the Universe (documentaries, articles, etc) :star:.
